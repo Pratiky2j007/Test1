@@ -33,6 +33,7 @@ public class Loops
 		{
 			if(i==2)
 			{
+				System.out.println("He he continue");
 				continue;
 			}
 			System.out.println(arrlist.get(i));
