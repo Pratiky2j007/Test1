@@ -31,6 +31,7 @@ public class Loops
 		arrlist.add("a5");
 		for(int i=0;i<arrlist.size();i++)
 		{
+			System.out.println("Hello");
 			if(i==2)
 			{
 				continue;
