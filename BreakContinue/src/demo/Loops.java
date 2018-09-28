@@ -34,7 +34,7 @@ public class Loops
 			System.out.println("Hello");
 			if(i==2)
 			{
-				System.out.println("He he continue3");
+				
 				continue;
 			}
 			System.out.println(arrlist.get(i));
