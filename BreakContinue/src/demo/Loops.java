@@ -34,9 +34,10 @@ public class Loops
 			System.out.println("Hello");
 			if(i==2)
 			{
+				
 				continue;
 			}
-			System.out.println(arrlist.get(i));
+			System.out.println(arrlist.get(i)); //Ritesh added this comment line
 		}
 	}
 
