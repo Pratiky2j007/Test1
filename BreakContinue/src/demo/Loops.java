@@ -37,7 +37,7 @@ public class Loops
 				
 				continue;
 			}
-			System.out.println(arrlist.get(i));
+			System.out.println(arrlist.get(i)); //Ritesh added this comment line
 		}
 	}
 
